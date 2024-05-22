@@ -1,7 +1,8 @@
 body {
     font-family: Verdana, sans-serif;
-    background-image: url(https://images.app.goo.gl/igbJZpR6vPu3iQWK6) }
-  
+    background-image: url(https://images.app.goo.gl/igbJZpR6vPu3iQWK6) 
+    background-color: none; 
+  }
   h1 {
     color: #8f0c0c;
     text-align: center;
@@ -9,7 +10,8 @@ body {
   
   p {
     color: rgb(3, 80, 3); 
+    text-align: center;
     font-family :Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align: center;
+    
   }
