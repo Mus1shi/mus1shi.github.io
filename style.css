@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, sans-serif;
-    background-image: url(https://cdn.artphotolimited.com/images/5bfe4a7283c0915ebd290679/1000x1000/geisha-1.jpg);  
+    background-image: url(https://www.color-meanings.com/wp-content/uploads/Black-and-white-paint-swirl-1024x683.jpeg);  
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -16,3 +16,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
   }
+i {
+text-align: center;
+}
