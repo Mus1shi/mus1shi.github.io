@@ -1,6 +1,8 @@
 body {
     font-family: Verdana, sans-serif;
     background-image: url(https://png.pngtree.com/background/20230426/original/pngtree-japan-in-autumn-the-view-from-kyoto-picture-image_2486932.jpg);  
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   h1 {
     color: #d3cece;
