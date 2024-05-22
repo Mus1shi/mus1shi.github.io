@@ -1,21 +1,27 @@
 body {
     font-family: Verdana, sans-serif;
-    background-image: url(https://www.color-meanings.com/wp-content/uploads/Black-and-white-paint-swirl-1024x683.jpeg);  
+    background-image: url(https://images.pexels.com/photos/4382003/pexels-photo-4382003.jpeg);  
     background-size: cover;
     background-repeat: no-repeat;
   }
   h1 {
     color: #c45902;
     text-align: center;
+    opacity: 0.70;
     font-size: 60px;
+    
   }
   
   p {
     color: rgb(230, 185, 4); 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 30px;
   }
 i {
-text-align: center;
+display: flex;
+font-size: 50px;
+color: white;
+margin-left:31%;
+opacity: 0.70;
 }
